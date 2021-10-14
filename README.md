@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NazaninMohammadrezaii
-- 👀 I’m interested in the interface of Neuroscience and Machine learning plus signal processing
-- 🌱 I’m currently learning Machine learning with python + Neuroscience + image processing 
+- 👀 I’m fascinated by the multidisciplinary research on Neuroscience with the help of signal/Image processing
+- 🌱 I am educated in Anatomical and Physiological building blocks of the human brain and Nervous system .
+- 
 
 
 <!---
