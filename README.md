@@ -1,8 +1,8 @@
-- 👋 Hi, I am @NazaninMohammadrezaii
-- ❤️ I’m fascinated by the multidisciplinary research on Neuroscience with the help of signal/Image processing
+- 👋 Hi, I am Nazanin Mohammadrezaii 
+- ❤️ Trying to communicate my Neuroscience background with my Data processing skills such as Biological Signal processing and Medical Image processing
 - 📗 I'm educated in Anatomical and Physiological building blocks of the human brain and Nervous system 
-- 💻 I'm also educated in Statistical Machine Learning and Developing Deep Neural Networks
-- 📈 I'm experienced in processing human brain's signal in EEGLAB and Medical Image processing
+- 💻 I'm also educated in Statistical Machine Learning and data processing in Python and MATLAB
+- 📈 And I have experience in processing human brain's signal in EEGLAB and Medical Image processing
 
 <!---
 NazaninMohammadrezaii/NazaninMohammadrezaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
