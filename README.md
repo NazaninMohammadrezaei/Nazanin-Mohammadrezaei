@@ -1,4 +1,4 @@
-## Undergraduate Biomedical engineer,Amirkabir University of Technology, Tehran, Iran 
+## Undergraduate Biomedical engineer
 - 👋 Hi, I am Nazanin Mohammadrezaii 
 - ❤️ Trying to communicate my Neuroscience background with my Data processing skills such as Biological Signal processing and Medical Image processing
 - 📗 I'm educated in Anatomical and Physiological building blocks of the human brain and Nervous system 
@@ -15,3 +15,16 @@
 <img align="left" alt="Raspberry pi" width="26px" src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" />
 <img align="left" alt="Advanced Design systems" width="26px" src="https://downloadly.net/wp-content/uploads/2020/03/Advanced-Design-System.png" />
 <img align="left" alt="Proteus Design suit" width="35px" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" />
+
+<br />
+
+### Contact:
+[<img align="left" alt="Nazanin Mohammadrezaii | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nazanin Mohammadrezaii | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />][Email]
+[<img align="left" alt="Nazanin Mohammadrezaii | Researchgate" width="22px" src="https://www.pngrepo.com/png/314548/180/researchgate.png" />][Researchgate]
+
+[Email]:https://www.nazaninmohammadrezaii79@gmail.com
+[linkedin]: https://www.linkedin.com/in/Nazanin-Mohammadrezaii/
+[Researchgate]: https://www.researchgate.net/profile/Nazanin-Mohammadrezaii
+
+### You can find my projects and my CV on my Website
