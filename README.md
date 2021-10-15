@@ -21,7 +21,7 @@
 ### Contact:
 [<img align="left" alt="Nazanin Mohammadrezaii | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nazanin Mohammadrezaii | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" />][Email]
-[<img align="left" alt="Nazanin Mohammadrezaii | Researchgate" width="22px" src="https://www.pngrepo.com/png/314548/180/researchgate.png" />][Researchgate]
+[<img align="left" alt="Nazanin Mohammadrezaii | Researchgate" width="30px" src="https://www.pngrepo.com/png/314548/180/researchgate.png" />][Researchgate]
 
 [Email]:https://www.nazaninmohammadrezaii79@gmail.com
 [linkedin]: https://www.linkedin.com/in/Nazanin-Mohammadrezaii/
