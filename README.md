@@ -1,4 +1,4 @@
-Undergraduate Biomedical engineer,Amirkabir University of Technology, Tehran, Iran
+Undergraduate Biomedical engineer,Amirkabir University of Technology, Tehran, Iran 
 - 👋 Hi, I am Nazanin Mohammadrezaii 
 - ❤️ Trying to communicate my Neuroscience background with my Data processing skills such as Biological Signal processing and Medical Image processing
 - 📗 I'm educated in Anatomical and Physiological building blocks of the human brain and Nervous system 
