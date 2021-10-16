@@ -3,7 +3,7 @@
 - ❤️ Trying to communicate my Neuroscience background with my Data processing skills such as Biological Signal processing and Medical Image processing
 - 📗 I'm educated in Anatomical and Physiological building blocks of the human brain and Nervous system 
 - 💻 I'm also educated in Statistical Machine Learning and data processing in Python and MATLAB
-- 📈 And I have experience in processing human brain's signal in EEGLAB and Medical Image processing
+- 📈 And I'm experienced in processing human brain's signals in EEGLAB and performing Image processing on Medical images
 
 ### Languages and Tools:
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
