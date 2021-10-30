@@ -32,4 +32,4 @@
 <br />
 
 ### Website:
-https://www.nazanin-mrezaii.wixsite.com/resume
+https://nazanin-mrezaii.wixsite.com/resume
