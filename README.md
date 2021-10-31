@@ -5,7 +5,7 @@
 - 💻 I'm also educated in Statistical Machine Learning and data processing in Python and MATLAB
 - 📈 And I'm experienced in processing human brain's signals in EEGLAB and performing Image processing on Medical images
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" width="320" height="320" />
 
 ### Languages and Tools:
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
