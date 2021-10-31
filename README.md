@@ -19,7 +19,6 @@
 <img align="left" alt="Proteus Design suit" width="35px" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" />
 
 <br />
-<br />
 
 ### Contact:
 [<img align="left" alt="Nazanin Mohammadrezaii | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
