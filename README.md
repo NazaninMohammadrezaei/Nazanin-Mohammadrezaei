@@ -15,7 +15,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Raspberry pi" width="26px" src="https://upload.wikimedia.org/wikipedia/de/c/cb/Raspberry_Pi_Logo.svg" />
-<img align="left" alt="Advanced Design systems" width="26px" src="https://downloadly.net/wp-content/uploads/2020/03/Advanced-Design-System.png" />
+<img align="left" alt="Advanced Design systems" width="26px" src="https://taiwebs.com/upload/icons/keysight-advanced-design-system-ads100-100.jpg" />
 <img align="left" alt="Proteus Design suit" width="35px" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" />
 
 <br />
